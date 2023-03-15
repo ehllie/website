@@ -1,7 +1,7 @@
 #=========================================================================================
 #================ Docs: https://github.com/isunjn/serene/wiki ============================
 #=========================================================================================
-base_url = "https://www.blog.ehllie.xyz" # The domain of your site
+base_url = "https://www.ehllie.xyz" # The domain of your site
 title = "Ellie's Blog"
 description = "My blog description"
 default_language = "en"
