@@ -2,7 +2,7 @@
 #================ Docs: https://github.com/isunjn/serene/wiki ============================
 #=========================================================================================
 base_url = "https://www.blog.ehllie.xyz" # The domain of your site
-title = "Ehllie's Blog"
+title = "Ellie's Blog"
 description = "My blog description"
 default_language = "en"
 theme = "serene"
@@ -37,7 +37,7 @@ anchors = "on"
 [extra]
 name = "Elizabeth Paź" # Your name
 id = "ehllie" # Your id/username/handle
-bio = "It's my bio" # Your bio
+bio = "Fan of build tools and functional programming." # Your bio
 avatar = "img/avatar.webp" # Your avatar
 show_id = true # Whether to show your id in homepage
 show_projects = true # Whether to show projects page
