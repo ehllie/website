@@ -1,0 +1,11 @@
+[[project]]
+name = "Personal Website"
+desc = "The very website you are on right now."
+links = [{ name = "GitHub Repo", url = "https://www.github.com/ehllie/blog" }]
+
+[[project]]
+name = "Dotfiles"
+desc = "My dotfiles that I manage using Nix. Notably contains my neovim config."
+links = [
+  { name = "GitHub Repo", url = "https://www.github.com/ehllie/dotfiles" }
+]
