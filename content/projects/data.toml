@@ -9,3 +9,10 @@ desc = "My dotfiles that I manage using Nix. Notably contains my neovim config."
 links = [
   { name = "GitHub Repo", url = "https://www.github.com/ehllie/dotfiles" }
 ]
+
+[[project]]
+name = "ez-configs"
+desc = "A flake-parts module for simple nixos, darwin and home-manager configurations using project directory structure"
+links = [
+  { name = "GitHub Repo", url = "https://www.github.com/ehllie/ez-configs" }
+]
