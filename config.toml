@@ -74,7 +74,7 @@ footer_copyright_year = "2023"
 footer_credits = true # Whether to show "Powered by Zola and Serene" in footer
 #============== Comment and Web analytics config ====================
 comment = "none" # gitalk / disqus / disqus_js
-analytics = "none" # google_analytics / cloudflare_web_analytics / umami / baidu_tongji
+analytics = "google_analytics" # google_analytics / cloudflare_web_analytics / umami / baidu_tongji
 
 #======================= Comment =======================
 [extra.gitalk]
@@ -109,7 +109,7 @@ apikey = "xxxx"
 id = "G-SY5RNMLGRJ"
 
 [extra.cloudflare_web_analytics]
-token = "0a68c6db9db7459c973c82611520dc47"
+token = ""
 
 [extra.umami]
 website_id = "xxxxx-xxxx-xxxxx"
