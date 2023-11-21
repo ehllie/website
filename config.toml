@@ -3,7 +3,7 @@
 #=========================================================================================
 base_url = "https://www.ehllie.xyz" # The domain of your site
 title = "Ellie's Blog"
-description = "My blog description"
+description = "I do things and write about them sometimes."
 default_language = "en"
 theme = "serene"
 output_dir = "public"
@@ -39,7 +39,7 @@ name = "Elizabeth Paź" # Your name
 id = "ehllie" # Your id/username/handle
 bio = "Fan of build tools and functional programming." # Your bio
 avatar = "img/avatar.webp" # Your avatar
-show_id = true # Whether to show your id in homepage
+show_id = false # Whether to show your id in homepage
 show_projects = true # Whether to show projects page
 #============== Icons, you can choose at https://remixicon.com/ ====
 blog_icon = "ri-quill-pen-line"
