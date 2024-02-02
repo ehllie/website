@@ -5,7 +5,14 @@ template = 'home.html'
 lang = 'en'
 +++
 
-I'm a Nix and Neovim user, and I build things with Rust, Haskell and Python.
+I'm not great at writing, but want to write about programming.
 
-This is my personal website. I'll make blog posts about the things I create or discover here.
-Both for my own benefit, in case I forget it later and want to go back to it, and maybe helping someone in the future.
+Haven't been very consistent so far, but I'd like to think this will improve. You might see posts about one of those topics here:
+
+- Nix
+- Rust
+- Haskell
+- Python
+- JS
+
+I read my emails, so you can contact me via the provided email address. Otherwise you can open issues in any of the featured projects.
